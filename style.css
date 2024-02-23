@@ -1,0 +1,23 @@
+.x
+{
+    transition: .5s;
+}
+.x:hover
+{
+    color: white;
+    background-color: rgb(53, 53, 53);
+}
+
+.cart
+{
+
+}
+body
+{
+    background-color: rgb(34, 31, 31);
+}
+
+.card2
+{
+    margin-top: 6%;
+}
